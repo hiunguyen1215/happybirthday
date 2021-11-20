@@ -8,12 +8,12 @@ body {
         50% 50%,
         100,
         color-stop(0%,#960a7c),
-        color-stop(100%, #64076d)
+        color-stop(100%,#010203)
     );
-    background-image: -webkit-radial-gradient(#960a7c, #64076d);
-    background-image: -moz-radial-gradient(#960a7c, #64076d);
-    background-image: -o-radial-gradient(#960a7c, #64076d);
-    background-image: radial-gradient(#960a7c, #64076d);
+    background-image: -webkit-radial-gradient(#960a7c, #010203);
+    background-image: -moz-radial-gradient(#960a7c,#010203);
+    background-image: -o-radial-gradient(#960a7c,#010203);
+    background-image: radial-gradient(#960a7c,#010203);
     font-family: 'Lobster', cursive;
 }
 span {
